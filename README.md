@@ -4,7 +4,7 @@ Projeto dentre os 30 em que o professor jailson pediu em que há um botão com c
 
 4/30
 
-primeiro projeto codado em html e css
+projeto codado em html e css
 
 créditos ao projeto feito:
 
